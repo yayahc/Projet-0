@@ -1,0 +1,21 @@
+# Challenge Photoshop 2021
+---
+/Week 1 (April 29)/
+## Challenge 1
+*Make DOUBLE EXPOSURE*
+
+[image:2516E53D-F123-4837-8BAC-E7120D45B0D0-2475-0000151435574924/43370dab37933fa940ccf6fb81a9076f.jpg]
+
+. PASS
+. NO
+---
+
+## Challenge 2
+*Make LOGO*
+[image:C2432ABB-6B9B-4129-B44C-D76D100EB9EF-2475-000015B8CD27977E/dea69b7d2ee14cbba6d36922ca605d41.jpg]
+
+. PASS
+. NO
+---
+
+/Week 2/

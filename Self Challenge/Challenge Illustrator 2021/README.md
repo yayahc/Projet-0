@@ -1,0 +1,20 @@
+# # Challenge Illustrator 2021
+/Week 1 (April 29)/
+## Challenge 1
+*Make VECTORIAL MOUNTAIN*
+
+[image:4C3D0D49-0D84-4F67-9B41-8675296AED8B-2475-000015FC721806D3/aa63ce4cd759635b3d3fd80285c47bc1.jpg]
+
+. PASS
+. NO
+---
+
+## Challenge 2
+*Make LOGO*
+[image:2850B831-5CB0-47D8-921A-948A7165BF01-2475-0000161034320393/e9d734918da5641d44e1c7896dd42076.jpg]
+
+. PASS
+. NO
+---
+
+/Week 2/
