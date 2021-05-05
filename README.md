@@ -3,9 +3,9 @@
 ## Multimedia Cours
 
 # Adobe - App
-#### Photoshop
-#### Illustrator
-#### Premiere Pro
-#### Lightroom
-#### Indesign
-#### After Effect
+#### Photoshop 📷
+#### Illustrator ✏️
+#### Premiere Pro 🎥
+#### Lightroom 🎞
+#### Indesign ☹️
+#### After Effect 🟣
