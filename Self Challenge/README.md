@@ -1,8 +1,8 @@
-## Self Challenge 
+# Self Challenge 
 
-if Pass :
-    Pass = YES 
-else :
-    Pass = NO
+* if Pass :
+*    Pass = YES 
+* else :
+*    Pass = NO
 
 | ↑ 5% |
